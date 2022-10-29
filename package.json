@@ -1,6 +1,6 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
-  "version": "1.16.0",
+  "name": "@neobase-one/safe-deployments",
+  "version": "1.16.0-canto",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/gnosis/safe-deployments/",
   "license": "MIT",
